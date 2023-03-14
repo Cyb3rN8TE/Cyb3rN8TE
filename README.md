@@ -4,6 +4,8 @@ G'day champions, my name is Nathan.
 
 Welcome to my GitHub profile!
 
+I work as a Junior Security Analyst, mostly working with the defensive side of security. 
+
 I'm not much of a programmer, but from time to time I'll find myself inspired to tackle a little coding project to make work easier!
 
 ## Projects
