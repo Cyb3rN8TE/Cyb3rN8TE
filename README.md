@@ -10,9 +10,14 @@ I'm not much of a programmer, but from time to time I'll find myself inspired to
 
 ## Projects
 
-LRWC Log Beautify https://github.com/nwjohns101/LRWC-Log-Beautify
-DefangIt https://github.com/nwjohns101/DefangIt
-IOC Builder https://github.com/nwjohns101/IOC-Builder
+LRWC Log Beautify 
+https://github.com/nwjohns101/LRWC-Log-Beautify
+
+DefangIt 
+https://github.com/nwjohns101/DefangIt
+
+IOC Builder 
+https://github.com/nwjohns101/IOC-Builder
 
 ## Tools
 
