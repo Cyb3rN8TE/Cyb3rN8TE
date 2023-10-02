@@ -11,13 +11,13 @@ I'm not much of a programmer, but from time to time I'll find myself inspired to
 ## Projects
 
 LRWC Log Beautify 
-https://github.com/nwjohns101/LRWC-Log-Beautify
+https://github.com/Cyb3rN8TE/LRWC-Log-Beautify
 
 DefangIt 
-https://github.com/nwjohns101/DefangIt
+https://github.com/Cyb3rN8TE/DefangIt
 
 IOC Builder 
-https://github.com/nwjohns101/IOC-Builder
+https://github.com/Cyb3rN8TE/IOC-Builder
 
 ## Tools
 
