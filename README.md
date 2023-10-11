@@ -8,13 +8,16 @@ I work as a Junior Security Analyst, mostly working with the defensive side of s
 
 I'm not much of a programmer; however, from time to time I'll find myself inspired to tackle a little coding project.
 
+I am slowly but progressively exploring the fundamental programming languages I will come across on my journey.
+
 ## Languages & profficiency
 
-- **C#:** Beginner-intermediate 
+- **C#:** Beginner-intermediate
+- **C++:** None
+- **C:** None 
 - **JavaScript:** Beginner-intermediate
 - **Python:** Currently learning
 - **Java:** None
-- **C++:** None
 
 ## Projects
 
@@ -36,6 +39,7 @@ https://github.com/Cyb3rN8TE/IOC-Builder
 [<img algin="left" alt="Java" width="35px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" />][Java]
 [<img algin="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" />][C++]
 [<img algin="left" alt="C#" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" />][C#]
+[<img algin="left" alt="C" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />][C]
 
 [Vscode]: https://code.visualstudio.com/
 [pwsh]: https://docs.microsoft.com/en-us/powershell/
@@ -44,5 +48,6 @@ https://github.com/Cyb3rN8TE/IOC-Builder
 [Java]: https://www.java.com/en/
 [C++]: https://isocpp.org/
 [C#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[C]: https://www.iso.org/standard/74528.html
 
 
