@@ -1,6 +1,7 @@
-## Introduction
+<h1 align="center">G'day Champions 🏆, I'm Cyb3rN8TE</h1>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/cyb3rn8te?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
-G'day champions, my name is Nathan. 
+## Introduction
 
 Welcome to my GitHub profile!
 
@@ -10,7 +11,17 @@ I'm not much of a programmer; however, from time to time I'll find myself inspir
 
 I am slowly but progressively exploring the fundamental programming languages I will come across on my journey.
 
+<img src="https://myreadme.vercel.app/api/embed/cyb3rn8te?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Cyb3rN8TE" />
+
 ## Languages & profficiency
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3rN8TE&show_icons=true&locale=en&layout=compact" alt="Cyb3rN8TE" /></p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 - **C#:** Beginner-intermediate
 - **C++:** None
@@ -24,14 +35,11 @@ I am slowly but progressively exploring the fundamental programming languages I 
 
 ## Projects
 
-LRWC Log Beautify 
-https://github.com/Cyb3rN8TE/LRWC-Log-Beautify
-
-DefangIt 
-https://github.com/Cyb3rN8TE/DefangIt
-
-IOC Builder 
-https://github.com/Cyb3rN8TE/IOC-Builder
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=LRWC-Log-Beautify)](https://github.com/Cyb3rN8TE/LRWC-Log-Beautify)
+<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=DefangIt)](https://github.com/Cyb3rN8TE/DefangIt)
+<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=IOC-Builder)](https://github.com/Cyb3rN8TE/IOC-Builder)
 
 ## Tools
 
