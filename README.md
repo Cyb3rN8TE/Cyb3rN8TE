@@ -18,6 +18,8 @@ I am slowly but progressively exploring the fundamental programming languages I 
 - **JavaScript:** Beginner-intermediate
 - **Python:** Currently learning
 - **Java:** None
+- **x64 Assembly:** None
+- **x86 Assembly:** None
 
 ## Projects
 
