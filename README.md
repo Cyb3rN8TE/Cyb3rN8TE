@@ -41,6 +41,8 @@ I am slowly but progressively exploring the fundamental programming languages I 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=DefangIt)](https://github.com/Cyb3rN8TE/DefangIt)
 <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=IOC-Builder)](https://github.com/Cyb3rN8TE/IOC-Builder)
+<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=RegKeyCanine)](https://github.com/Cyb3rN8TE/RegKeyCanine)
 
 ## Tools
 
