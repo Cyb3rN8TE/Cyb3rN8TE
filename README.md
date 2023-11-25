@@ -5,11 +5,9 @@
 
 Welcome to my GitHub profile!
 
-I work as a Junior Security Analyst, mostly working with the defensive side of security. 
+I work as a Junior Security Analyst.
 
 I'm not much of a programmer; however, from time to time I'll find myself inspired to tackle a little coding project.
-
-I am slowly but progressively exploring the fundamental programming languages I will come across on my journey.
 
 <img src="https://myreadme.vercel.app/api/embed/cyb3rn8te?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Cyb3rN8TE" />
 
@@ -28,11 +26,11 @@ I am slowly but progressively exploring the fundamental programming languages I 
 - **C++:** None
 - **C:** None 
 - **JavaScript:** Beginner-intermediate
-- **Python:** Currently learning
+- **Python:** Beginner
 - **Java:** None
 - **SQL:** Beginner
-- **x64 Assembly:** None
-- **x86 Assembly:** None
+- **x64 Assembly:** Beginner
+- **x86 Assembly:** Beginner
 
 ## Projects
 
