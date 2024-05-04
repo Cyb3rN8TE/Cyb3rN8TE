@@ -23,16 +23,6 @@ I'm not much of a programmer; however, from time to time I'll find myself inspir
 <br/>
 <br/>
 
-- **C#:** Beginner-intermediate
-- **C++:** None
-- **C:** None 
-- **JavaScript:** Beginner-intermediate
-- **Python:** Beginner
-- **Java:** None
-- **SQL:** Beginner
-- **x64 Assembly:** Beginner
-- **x86 Assembly:** Beginner
-
 ## Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=LRWC-Log-Beautify)](https://github.com/Cyb3rN8TE/LRWC-Log-Beautify)
