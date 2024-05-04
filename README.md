@@ -7,7 +7,9 @@ Welcome to my GitHub profile!
 
 I work as a Junior Security Analyst.
 
-I'm not much of a programmer; however, from time to time I'll find myself inspired to tackle a little coding project.
+I'm in the process of developing a cybersecurity wiki that will encompass a range of topics. This wiki will provide documentation on software usage, a glossary of common terms, red team tactics/techniques and other resources.
+
+Whether you're a seasoned expert or just starting out in the field, I am always happy to connect and chat about the latest trends, challenges, and opportunities in Cyber Security. Don't hesitate to reach out to me for a chat at any time!
 
 <img src="https://myreadme.vercel.app/api/embed/cyb3rn8te?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Cyb3rN8TE" />
 
