@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Cyb3rN8TE Banner Image](./banner.png)
+![Cyb3rN8TE Banner Image](./GitHubBanner.png)
 
 <!-- Cyb3rN8TE image -->
 <div>
