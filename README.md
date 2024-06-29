@@ -11,7 +11,7 @@
 
 *Welcome to my GitHub profile!*
 <!-- Start Intro -->
-<p align="left">My name is Nathan and I work as a Junior Security Analyst. </p>
+<p align="left">My name is Nathan and I work as a Threat Analyst. </p>
 
 I'm in the process of developing a cybersecurity wiki that will encompass a range of topics. This wiki will provide documentation on software usage, a glossary of common terms, red team tactics/techniques, and other resources.
 
