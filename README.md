@@ -36,7 +36,10 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3rN8TE&show_icons=true&locale=en&layout=compact" alt="Cyb3rN8TE"/>
 </p>
 
-<!-- Projects -->       
+<!-- Projects -->
+
+<!--
+
 <h2 align="center">Projects</h2>
 <br>
 <div align="center">
@@ -53,6 +56,8 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=RegKeyCanine" alt="RegKeyCanine">
   </a>
 </div>
+
+-->
 
 <!-- Github Stats --> 
 <h2 align="center">Contribution Statistics</h2>
@@ -89,6 +94,9 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
 
 <h2 align="center">Links</h2>
 <div align="center">
+    <a href="https://nwjinfotech.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-529E18?style=for-the-badge&logo=website&logoColor=white" alt="Website" style="margin-bottom: 5px;" />
+  </a>
   <a href="https://wiki.nwjinfotech.net" target="_blank">
     <img src="https://img.shields.io/badge/Wiki-529E18?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Cyb3rN8TE Wiki" style="margin-bottom: 5px;" />
   </a>
