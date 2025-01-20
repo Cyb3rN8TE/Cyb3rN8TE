@@ -95,10 +95,10 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
 
 <h2 align="center">Links</h2>
 <div align="center">
-    <a href="https://nwjinfotech.net" target="_blank">
+    <a href="https://nwinfotech.net" target="_blank">
     <img src="https://img.shields.io/badge/Website-529E18?style=for-the-badge&logo=website&logoColor=white" alt="Website" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://wiki.nwjinfotech.net" target="_blank">
+  <a href="https://wiki.nwinfotech.net" target="_blank">
     <img src="https://img.shields.io/badge/Wiki-529E18?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Cyb3rN8TE Wiki" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/Cyb3rN8TE" target="_blank">
